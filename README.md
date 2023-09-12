@@ -4,6 +4,10 @@ Process Proxifier uses FiddlerCore to add proxy settings to the Windows applicat
 Using FiddlerCore and its beforeRequest callback mechanism and setting 'X-OverrideGateway', 
 it's possible to define an HTTP Proxy or Socks for the specific process in Windows.
 
+# Download
+
+<a href="https://raw.githubusercontent.com/David-Honisch/LC2ProcessProxifier/main/LC2ProcessProxifier.v.1.0.zip">LC2ProcessProxifier</a>
+
 ![LC2ProcessProxifier](/LC2ProcessProxifier/Images/pp.png) 
 
 How to use it
