@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC2ProcessProxifier", "LC2ProcessProxifier.csproj", "{0644897E-EB19-44D8-B24F-2CE3C776C623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0644897E-EB19-44D8-B24F-2CE3C776C623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0644897E-EB19-44D8-B24F-2CE3C776C623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0644897E-EB19-44D8-B24F-2CE3C776C623}.Release|x86.ActiveCfg = Release|x86
+		{0644897E-EB19-44D8-B24F-2CE3C776C623}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3DA8C6-EDA2-4280-9BA0-4112BB4E2495}
+	EndGlobalSection
+EndGlobal
